@@ -160,7 +160,7 @@ Note that this doesn't work with bot tokens. Bot tokens are different from user 
 
 ### Enable Staff Mode
 
-Enables some hidden features and sets your client to staff mode.
+Enables some hidden features and sets your client to staff mode. (Currently broken, will update as soon as it is fixed.)
 
 <details>
 <summary>Expand</summary>
